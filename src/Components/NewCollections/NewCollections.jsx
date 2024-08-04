@@ -9,3 +9,4 @@ const NewCollections = () => {
 }
 
 export default NewCollections 
+//
