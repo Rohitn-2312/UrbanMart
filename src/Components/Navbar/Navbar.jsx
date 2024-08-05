@@ -12,7 +12,7 @@ const Navbar = () => {
 
     <div className='navbar'>
       <div className='nav-logo'>
-        <img src={logo} alt="" />
+        <img className="logo-img" src={logo} alt="" />
         <p>UrbanMart</p>
       </div>
       <ul className='nav-menu'>
